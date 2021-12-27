@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "313dfd6b-7f49-4524-a183-5cf042e98903": {
+      "ProjectGuid": "313dfd6b-7f49-4524-a183-5cf042e98903",
+      "DisplayName": "dotnet-core-api",
+      "ColorIndex": 0
+    },
+    "c0d731c3-3207-4566-b79b-0fedabc7021a": {
+      "ProjectGuid": "c0d731c3-3207-4566-b79b-0fedabc7021a",
+      "DisplayName": "dotnet-core-api",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

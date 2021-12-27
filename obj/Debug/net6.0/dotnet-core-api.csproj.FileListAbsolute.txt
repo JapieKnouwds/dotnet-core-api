@@ -25,3 +25,13 @@ C:\Jp's\Dev\dotnet-core-api\obj\Debug\net6.0\dotnet-core-api.dll
 C:\Jp's\Dev\dotnet-core-api\obj\Debug\net6.0\ref\dotnet-core-api.dll
 C:\Jp's\Dev\dotnet-core-api\obj\Debug\net6.0\dotnet-core-api.pdb
 C:\Jp's\Dev\dotnet-core-api\obj\Debug\net6.0\dotnet-core-api.genruntimeconfig.cache
+C:\Jp's\Dev\dotnet-core-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Jp's\Dev\dotnet-core-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Jp's\Dev\dotnet-core-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Jp's\Dev\dotnet-core-api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Jp's\Dev\dotnet-core-api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Jp's\Dev\dotnet-core-api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Jp's\Dev\dotnet-core-api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Jp's\Dev\dotnet-core-api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Jp's\Dev\dotnet-core-api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Jp's\Dev\dotnet-core-api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
